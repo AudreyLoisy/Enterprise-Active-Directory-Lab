@@ -13,6 +13,6 @@ Configured Static IP in Control Panel
 ![domainpromotion](screenshots/04_domain_promotion.png)
 Created the apextech.local forest and configured DNS.
 ![AD](screenshots/05_active_directory.png)
-![server](screenshots/06_server_manager.png)
+![server]()
 
 07/28 - Creating Users and Groups 
