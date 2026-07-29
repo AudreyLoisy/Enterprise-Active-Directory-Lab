@@ -34,6 +34,7 @@ A hands-on enterprise IT administration lab built to simulate real-world corpora
   ![changepassword](screenshots/13_change_password_at_login.png)
   
 - Updated user properties
+  
   ![userproperties](screenshots/10_user_properties.png)
   
 - Created Security Groups - Group Scope: Global | Group Type: Security
