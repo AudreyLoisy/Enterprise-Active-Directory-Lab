@@ -19,6 +19,7 @@ Created the apextech.local forest and configured DNS.
 Created Enterprise Users inside each OU
 ![usercreation](screenshots/08_user_creation.png)
 ![saleusers](screenshots/09_users_created_sales.png)
+
 Enforced change password at next logon
 ![changepassword](screenshots/13_change_password_at_login.png)
 Updated user properties
