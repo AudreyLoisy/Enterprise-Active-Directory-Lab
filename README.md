@@ -15,14 +15,17 @@ Created the apextech.local forest and configured DNS.
 ![AD](screenshots/05_active_directory.png)
 
 07/28 - Create Organizational Units (OUs)
-![](screenshots/)
+![organizationalunits](screenshots/07_organizational_unit.png)
 Created Enterprise Users inside each OU
-![](screenshots/)
+![usercreation](screenshots/08_user_creation.png)
+![saleusers](screenshots/09_users_created_sales.png)
+Enforced change password at next logon
+![changepassword](screenshots/13_change_password_at_login.png)
 Updated user properties
-![](screenshots/)
+![userproperties](screenshots/10_user_properties.png)
 Created Security Groups - Group Scope: Global | Group Type: Security
-![](screenshots/)
+![securitygroups](screenshots/11_security_groups.png)
 Added members to each security group
-![](screenshots/)
-Password reset - HD-001 See [Help Desk Ticket 1]()
-![](screenshots/)
+![groupmembers](screenshots/12_group_memberships.png)
+Password reset - HD-001 See [Help Desk Ticket 1](HelpDesk-Tickets/HD-001-Password-Reset.md)
+![passwordreset](screenshots/14_reset_password.png)
