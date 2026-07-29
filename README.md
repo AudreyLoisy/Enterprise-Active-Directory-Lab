@@ -14,4 +14,15 @@ Configured Static IP in Control Panel
 Created the apextech.local forest and configured DNS.
 ![AD](screenshots/05_active_directory.png)
 
-07/28 - Creating Users and Groups 
+07/28 - Create Organizational Units (OUs)
+![](screenshots/)
+Created Enterprise Users inside each OU
+![](screenshots/)
+Updated user properties
+![](screenshots/)
+Created Security Groups - Group Scope: Global | Group Type: Security
+![](screenshots/)
+Added members to each security group
+![](screenshots/)
+Password reset - HD-001 See [Help Desk Ticket 1]()
+![](screenshots/)
