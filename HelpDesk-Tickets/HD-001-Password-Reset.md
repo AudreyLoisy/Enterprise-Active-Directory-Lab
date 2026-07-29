@@ -48,6 +48,8 @@ The user was able to sign in using the temporary password and created a new pass
 
 ---
 
+![helpdesk](screenshots/15_HD_001.png)
+
 ## Skills Demonstrated
 
 - Active Directory User Management 
