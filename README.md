@@ -6,7 +6,7 @@ A hands-on enterprise IT administration lab built to simulate real-world corpora
   
 - Configured setup on Oracle VirtualBox
   
-- Set up Server changed computer name to APEX-DC01
+- Set up Server and changed computer name to APEX-DC01
   ![server](screenshots/01_server_build.png)
   
 - Configured Static IP in Control Panel
@@ -23,7 +23,7 @@ A hands-on enterprise IT administration lab built to simulate real-world corpora
 
 ## 07/28 
 
-- Create Organizational Units (OUs)
+- Created Organizational Units (OUs)
   ![organizationalunits](screenshots/07_organizational_unit.png)
   
 - Created Enterprise Users inside each OU
@@ -43,5 +43,22 @@ A hands-on enterprise IT administration lab built to simulate real-world corpora
 - Added members to each security group
   ![groupmembers](screenshots/12_group_memberships.png)
   
-- Password reset - HD-001 See [Help Desk Ticket 1](HelpDesk-Tickets/HD-001-Password-Reset.md)
+- Created a password reset help desk ticket - HD-001 See [Help Desk Ticket 1](HelpDesk-Tickets/HD-001-Password-Reset.md)
   ![passwordreset](screenshots/14_reset_password.png)
+
+## 07/29
+
+- Created a new GPO
+ ![gpo](screenshots/)
+
+- Configured password policy
+  ![passwordpolicy](screenshots/)
+
+- Configured account lockout policy
+  ![accountlockout](screenshots/)
+
+- Created sales department GPO
+  ![salesgpo](screenshots/)
+
+- Disabled control panel for sales
+  ![disablecontrolpanel](screenshots/)
