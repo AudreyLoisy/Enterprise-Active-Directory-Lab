@@ -1,6 +1,6 @@
-#HD-001: Password Reset
+# HD-001: Password Reset
 
-##Ticket Information
+## Ticket Information
 
 |Field | Value |
 |-------|-------|
