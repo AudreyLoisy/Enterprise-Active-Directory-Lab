@@ -48,17 +48,22 @@ A hands-on enterprise IT administration lab built to simulate real-world corpora
 
 ## 07/29
 
+![GPO](screenshots/16_gp_management.png)
+
 - Created a new GPO
- ![gpo](screenshots/)
+ ![gpo](screenshots/16_gpo_created.png)
 
 - Configured password policy
-  ![passwordpolicy](screenshots/)
+  ![passwordpolicy](screenshots/17_password_policy.png)
 
 - Configured account lockout policy
-  ![accountlockout](screenshots/)
+  ![accountlockout](screenshots/18_account_lockout_policy.png)
 
 - Created sales department GPO
-  ![salesgpo](screenshots/)
+  ![salesgpo](screenshots/19_sales_gpo.png)
 
 - Disabled control panel for sales
-  ![disablecontrolpanel](screenshots/)
+  ![disablecontrolpanel](screenshots/20_disable_control_panel.png)
+
+- Updated Group Policies
+  ![cmd](screenshots/21_gpupdate.png)
