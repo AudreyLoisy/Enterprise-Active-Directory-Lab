@@ -50,7 +50,8 @@ A hands-on enterprise IT administration lab built to simulate real-world corpora
 
 ![GPO](screenshots/16_gp_management.png)
 
-- Created a new GPO
+- Created a new GPO (Default Company Security Policy)
+  
  ![gpo](screenshots/17_gpo_created.png)
 
 - Configured password policy
