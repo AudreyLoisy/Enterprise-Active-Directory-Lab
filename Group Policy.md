@@ -1,6 +1,6 @@
 # Group Policy Configuration
 
-##Objectives
+## Objectives
 
 Configured enterprise security policies using Group Policy Management.
 
