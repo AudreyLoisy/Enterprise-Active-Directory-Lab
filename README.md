@@ -70,3 +70,21 @@ A hands-on enterprise IT administration lab built to simulate real-world corpora
 - Updated Group Policies
 
 ![cmd](screenshots/21_gpupdate.png)
+
+## 07/30
+
+- Configured client static IP address
+  ![staticip](screenshots/22_client_static_ip.png)
+
+- Verified both machines were connected
+  ![ping](screenshots/23_network_connectivity.png)
+
+- Joined Windows 10 workstation to the Active Directory domain 'apextech.local'
+  ![joined](screenshots/24_domain_join.png)
+
+- Logged in as domain user ' Jim Halpert' and verified group policy
+  ![verify](screenshots/25_gpresult.png)
+
+Encountered some issues with Account Lockout Policy, after attempting brute force attack on user's account, the policy did not take effect like expected. The user or threat actor would be able to brute force without any cooldown periods enforced. 
+
+## 07/31
