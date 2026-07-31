@@ -16,3 +16,5 @@ Configured a Windows 10 client to join the 'apextech.local' Active Directory dom
   ## Business Impact
 
   Domain joined workstations provide centralized authentication, security policy enforcement, and simplified user management within an enterprise enviornment.
+
+  ![domainjoin](../screenshots/24_domain_join.png)
