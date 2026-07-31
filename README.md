@@ -46,7 +46,8 @@ A hands-on enterprise IT administration lab built to simulate real-world corpora
 - Created a password reset help desk ticket - HD-001 See [Help Desk Ticket 1](HelpDesk-Tickets/HD-001-Password-Reset.md)
   ![passwordreset](screenshots/14_reset_password.png)
 
-## 07/29 [Group Policy](Group-Policy.md)
+## 07/29 
+Read the [Group Policy Write Up](Group-Policy.md) for more details.
 
 ![GPO](screenshots/16_gp_management.png)
 
@@ -72,6 +73,7 @@ A hands-on enterprise IT administration lab built to simulate real-world corpora
 ![cmd](screenshots/21_gpupdate.png)
 
 ## 07/30 
+Read the [Domain Joined Workstation](Domain-Joined-Workstation.md) for more details.
 
 - Configured client static IP address
   
