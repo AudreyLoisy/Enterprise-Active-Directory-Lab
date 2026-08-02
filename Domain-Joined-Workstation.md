@@ -13,8 +13,8 @@ Configured a Windows 10 client to join the 'apextech.local' Active Directory dom
 - Verified Group Policy application
 - Tested account lockout and recovery (pending, need to make adjustments to the GPO account lockout policies)
 
-  ## Business Impact
+## Business Impact
 
-  Domain joined workstations provide centralized authentication, security policy enforcement, and simplified user management within an enterprise enviornment.
+Domain joined workstations provide centralized authentication, security policy enforcement, and simplified user management within an enterprise enviornment.
 
-    ![domainjoin](screenshots/24_domain_join.png)
+ ![domainjoin](screenshots/24_domain_join.png)
