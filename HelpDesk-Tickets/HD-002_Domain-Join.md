@@ -4,8 +4,8 @@
 
 | Field | Value |
 |--------|-------|
-| Date | July 30, 2026 |
 | Ticket ID | HD-002 |
+| Date | July 30, 2026 |
 | Priority | High |
 | Status | Resolved |
 | Category | Workstation Deployment |
