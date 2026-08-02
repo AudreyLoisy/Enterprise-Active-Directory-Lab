@@ -33,3 +33,5 @@ The workstation authenticated successfully, and users were able to log in using 
 - DNS Troubleshooting
 - Active Directory
 - Windows Administration 
+
+![hd-002](../screenshots/26_HD_002.png)
