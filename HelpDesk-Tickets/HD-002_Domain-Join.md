@@ -27,7 +27,7 @@ Successfully joined the workstation to the 'apexttech.local' domain and restarte
 
 The workstation authenticated successfully, and users were able to log in using domain credentials.
 
-# Skills Demonstrated 
+## Skills Demonstrated 
 
 - Domain Administration
 - DNS Troubleshooting
