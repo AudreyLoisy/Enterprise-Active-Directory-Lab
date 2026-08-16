@@ -93,4 +93,4 @@ Read the [Domain Joined Workstation](Domain-Joined-Workstation.md) for more deta
 
 Encountered some issues with Account Lockout Policy, after attempting brute force attack on user's account, the policy did not take effect like expected. The user or threat actor would be able to brute force without any cooldown periods enforced. 
 
-## 07/31
+
